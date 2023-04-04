@@ -1207,4 +1207,4 @@ async def unmute_error(ctx,error):
         await ctx.send("N'essaye pas de rendre la parole quand tu ne le peux pas.")
 
 
-trombot.run('OTAwMTI4NjQ3MjcxMzA5MzQz.YW80IQ.hiEobos4_5aIow4XelvWBKlJD_A')
+trombot.run('***')
